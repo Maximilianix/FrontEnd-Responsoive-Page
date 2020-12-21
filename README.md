@@ -1,3 +1,2 @@
-# NI-Home-assignment
-Home assignment
+# Front-end styled page
 Fully responsive html css page
